@@ -1,0 +1,5 @@
+*.env
+*.folderignore
+*.folder2ignore
+__pycache__/
+

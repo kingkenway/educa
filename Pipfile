@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 django = "*"
 pillow = "*"
+python-decouple = "*"
+dj-database-url = "*"
 
 [requires]
 python_version = "3.6"
